@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Itsmemartin
-- 👀 I’m interested in anime and sometimes drawing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing as of now
-- 📫 I'm available on discord itsmemartin_, feel free to dm me
+
